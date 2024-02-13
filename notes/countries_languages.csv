@@ -1,0 +1,20 @@
+Region,Country,Language,country % of lang,lang % of country,2015,2019,2023
+Eastern Europe,Hungary,Hungarian,,,V,V,V
+Eastern Europe,Poland,Polish,,,V,V,V
+Eastern Europe,Russia,Russian,,,V,V,V
+Eastern Europe,Ukraine,Ukrainian,,,V,V,V
+Western Europe,Belgium,,,,V,V,V
+Western Europe,Germany,German,,,V,V,V
+Western Europe,France,French,,,V,V,V
+Western Europe,Netherlands,,,,V,V,V
+Western Europe,Spain,Spanish,,,V,V,V
+Western Europe,United Kingdom,British English,,,V,V,V
+Western Europe,Italy,Italian,,,V,V,-
+Western Europe,Sweden,Swedish,,,-,V,-
+Western Europe,Greece,,,,V,-,-
+Western Europe,Denmark,,,,V,V,-
+Western Europe,Austria,,,,-,V,-
+Middle East,Iran,,,,V,-,-
+Middle East,Turkey,,,,V,-,-
+Sub-Saharan Africa,South Africa,,,,-,V,-
+The Americas,Argentina,,,,V,V,-

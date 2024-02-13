@@ -12,9 +12,19 @@
 	2. Page views of related pages (could be positive or negative attention)
 	3. *Coverage* = Number of edits
 
+# Countries and Languages
+
+
 # Previous Works
 
 
 # Methods
 * See @ruprechterPoorAttentionWealth2023 repo: [GitHub - ruptho/wiki-event-bias: Repository for "Poor attention: The wealth and regional gaps in event attention and coverage on Wikipedia" as published in PONE.](https://github.com/ruptho/wiki-event-bias)
 * See Pudding.cool's [Life After Death on Wikipedia](https://pudding.cool/2018/08/wiki-death/) repo: [GitHub - the-pudding/wiki-death-data](https://github.com/the-pudding/wiki-death-data/tree/master)
+
+# Data
+* X:
+  * https://github.com/GeneralMills/pytrends
+  * wikipedia rest api
+* y:
+  * https://global100.adl.org/map
