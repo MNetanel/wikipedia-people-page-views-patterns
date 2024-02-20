@@ -21,10 +21,12 @@
 # Methods
 * See @ruprechterPoorAttentionWealth2023 repo: [GitHub - ruptho/wiki-event-bias: Repository for "Poor attention: The wealth and regional gaps in event attention and coverage on Wikipedia" as published in PONE.](https://github.com/ruptho/wiki-event-bias)
 * See Pudding.cool's [Life After Death on Wikipedia](https://pudding.cool/2018/08/wiki-death/) repo: [GitHub - the-pudding/wiki-death-data](https://github.com/the-pudding/wiki-death-data/tree/master)
+* [(Open Access) Wikipedia traffic data and electoral prediction: towards theoretically informed models (2015) | Taha Yasseri | 6 Citations](https://typeset.io/papers/wikipedia-traffic-data-and-electoral-prediction-towards-1l0m91908g)
 
 # Data
 * X:
   * https://github.com/GeneralMills/pytrends
+  * [Pageview complete dumps](https://dumps.wikimedia.org/other/pageview_complete/readme.html)
   * wikipedia rest api
 * y:
   * https://global100.adl.org/map
