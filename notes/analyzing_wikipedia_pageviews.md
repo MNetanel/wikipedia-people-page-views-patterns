@@ -12,10 +12,12 @@
 	2. Page views of related pages (could be positive or negative attention)
 	3. *Coverage* = Number of edits
 
+https://chat.openai.com/share/35ce5efa-fb76-4dde-9c44-c5026718a26a
 # Countries and Languages
 
 
 # Previous Works
+https://arxiv.org/pdf/2305.09497.pdf
 
 
 # Methods
