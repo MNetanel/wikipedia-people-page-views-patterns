@@ -25,6 +25,10 @@ https://arxiv.org/pdf/2305.09497.pdf
 * See Pudding.cool's [Life After Death on Wikipedia](https://pudding.cool/2018/08/wiki-death/) repo: [GitHub - the-pudding/wiki-death-data](https://github.com/the-pudding/wiki-death-data/tree/master)
 * [(Open Access) Wikipedia traffic data and electoral prediction: towards theoretically informed models (2015) | Taha Yasseri | 6 Citations](https://typeset.io/papers/wikipedia-traffic-data-and-electoral-prediction-towards-1l0m91908g)
 
+# Tools
+- https://pyts.readthedocs.io/en/stable/auto_examples/transformation/plot_shapelet_transform.html
+- https://github.com/MaxBenChrist/awesome_time_series_in_python?tab=readme-ov-file
+
 # Data
 * X:
   * https://github.com/GeneralMills/pytrends
@@ -32,3 +36,10 @@ https://arxiv.org/pdf/2305.09497.pdf
   * wikipedia rest api
 * y:
   * https://global100.adl.org/map
+
+# Questions?
+- Which pages to analyze?
+	- Obviously we cannot analyze every single page (that would have >300GB of data)
+
+# Future Work
+- Mixture of multiple patterns
