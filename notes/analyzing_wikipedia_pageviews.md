@@ -40,6 +40,8 @@ https://arxiv.org/pdf/2305.09497.pdf
 # Questions?
 - Which pages to analyze?
 	- Obviously we cannot analyze every single page (that would have >300GB of data)
+	- Only pages from https://en.wikipedia.org/wiki/Wikipedia:Popular_pages
 
 # Future Work
 - Mixture of multiple patterns
+- How patterns of related pages relate to/affect each other

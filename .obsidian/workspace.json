@@ -146,8 +146,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "60bd76e6bcc92759",
+  "active": "94e381b4c6b0f0df",
   "lastOpenFiles": [
+    "data/pageviews/Red_Hot_Chili_Peppers.csv",
+    "data/pageviews/Led_Zeppelin.csv",
+    "data/pageviews/Exo.csv",
+    "data/pageviews/Linkin_Park.csv",
+    "data/pageviews/Metallica.csv",
+    "data/pageviews/Pink_Floyd.csv",
+    "data/pageviews/Queen_(band).csv",
+    "data/pageviews/BTS.csv",
+    "data/pageviews/One_Direction.csv",
+    "data/pageviews/NCIS_(TV_series).csv",
+    "data/pageviews/Modern_Family.csv",
     "notes/analyzing_wikipedia_pageviews.md"
   ]
 }
