@@ -1,10 +1,12 @@
+beautifulsoup4
+joypy
+matplotlib
 numpy
 pandas
 polars
-matplotlib
-seaborn
 python-dotenv
-tslearn
-rich
 requests
-beautifulsoup4
+rich
+seaborn
+tqdm
+tslearn
