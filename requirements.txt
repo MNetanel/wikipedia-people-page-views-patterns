@@ -10,3 +10,4 @@ rich
 seaborn
 tqdm
 tslearn
+SPARQLWrapper
