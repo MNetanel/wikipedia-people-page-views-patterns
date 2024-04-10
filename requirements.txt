@@ -11,3 +11,5 @@ seaborn
 tqdm
 tslearn
 SPARQLWrapper
+pyarrow
+hvplot

@@ -1,2 +1,6 @@
-Explain optimization steps taken.
-Divide into small tables by predefined groups, for example: singers (occupation/instrument), people from the 1900s (dob). IN EACH GROUP find patterns. -- https://stackoverflow.com/questions/74432537/cast-a-list-column-into-dummy-columns-in-python-polars
+- Explain optimization steps taken.
+- Divide into small tables by predefined groups, for example: singers (occupation/instrument), people from the 1900s (dob). IN EACH GROUP find patterns. -- https://stackoverflow.com/questions/74432537/cast-a-list-column-into-dummy-columns-in-python-polars
+- Questions:
+  - what pattern is common for each group?\
+  - Who are the outliers that don't conform to this pattern?
+  - (more?)
