@@ -4,3 +4,9 @@
   - what pattern is common for each group?\
   - Who are the outliers that don't conform to this pattern?
   - (more?)
+- Method:
+  - kmeans clustering (tslearn - fast! or simply sklearn with set_output='polars')
+  - ?
+- Ideas:
+  - smoothing before kmeans
+  - kmeans on ts *features* (functime or polars-ds for feat. extr.)
