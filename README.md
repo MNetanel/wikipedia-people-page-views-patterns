@@ -1,4 +1,4 @@
-# Wikipedia People Page Views Pattern Identification and Analysis
+# Understanding Collective Memory Patterns by Analyzing View Patterns of People’s Pages on the English Wikipedia
 
 In this work I identify and investigate the commonness of six intuitive different page views patterns of around two
 million Wikipedia pages of persons over nine years (2015-2023), using publicly available page views information
